@@ -11,7 +11,7 @@ Serial.begin(9600);// Komunikation mit serial monitor
 void loop() {
   // put your main code here, to run repeatedly:
 
-sensorwert=analogRead(temp);// Auslesen Sensorwert PSK
+sensorwert=analogRead(temp);// Auslesen Sensorwert
 
 temperatur = map(sensorwert,321,690,150,-50);
 delay(t);
