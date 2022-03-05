@@ -1,7 +1,7 @@
 # Leon
 Projekt: Fernsehrschrankkühlung
 
-Code Temperatur Sensor auslesen gibt falschen Wert aus.
+Programm läuft bei Seriellem Monitor mit richtiger Geschwindigkeit, wenn Monitor geschlossen braucht es 10x länger?!
 
 
 Daten Sensor:
