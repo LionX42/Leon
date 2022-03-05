@@ -3,7 +3,6 @@ Projekt: Fernsehrschrankkühlung
 
 Code Temperatur Sensor auslesen gibt falschen Wert aus.
 
-Aktuelle Raumtemperatur ca. 18-20°C, angezeigt wird 50°C
 
 Daten Sensor:
   Grundwiderstand 1kOhm;  positiver Temperatur-Koeffizient des Widerstandes (PTC)
